@@ -8,7 +8,7 @@ Great work by Chaitanya Ahuja of Language Technologies Institute, Carnegie Mello
 
 ![](2.jpg)
 
-![](3.JPG)
+![](3.jpg)
 
 It combines natural language with 3D pose models. Watch how this will help humanoid robots to do physical tasks in the real world.
 
