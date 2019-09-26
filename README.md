@@ -2,11 +2,11 @@
 
 Artificial Intelligence translates words into human animation.
 
-![](1.JPG)
+![](1.jpg)
 
 Great work by Chaitanya Ahuja of Language Technologies Institute, Carnegie Mellon University on Joint Language-to-Pose, or JL2P. 
 
-![](2.JPG)
+![](2.jpg)
 
 ![](3.JPG)
 
